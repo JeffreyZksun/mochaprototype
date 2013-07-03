@@ -1,0 +1,1 @@
+The minimal package for mocha prototype
